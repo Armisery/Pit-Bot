@@ -2,12 +2,12 @@ Pit Bot made by Armisery/Kymp. Assisted heavily by Omi and only put on github in
 
 Install:
 
-1.pip install -r requirements.txt or just pip install requests
+  -pip install -r requirements.txt or just pip install requests
 
-2.Install node.js
+  -Install node.js
 
-3. Do each individual command from node_requirements.txt
+  -Do each individual command from node_requirements.txt
 
-5. Put alts in alts.txt and proxies in proxies.txt. Alts must be in form of email:pass and proxies must be in form ip:port:user:pass
+  -Put alts in alts.txt and proxies in proxies.txt. Alts must be in form of email:pass and proxies must be in form ip:port:user:pass
 
-7. Run Doxtrilauncher2.py
+  -Run Doxtrilauncher2.py
