@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 const Vec3 = require('vec3')
 const { RaycastIterator } = require('prismarine-world').iterators
 const { Webhook } = require('discord-webhook-node');
-const hook = new Webhook("https://discord.com/api/webhooks/1006728448779243561/ZZqm7-eDZgcim2ugfuaw9K1lbn46kn1qIrx5LhC4Xclv7m4v-rVoHySh2YFIz8c5QhAA");
+const hook = new Webhook(""); //Webhook link goes here. Could make a config file but I am lazy.
 const mc = require('minecraft-protocol')
 const socks = require('socks').SocksClient
 
