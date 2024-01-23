@@ -1,6 +1,8 @@
-Pit Bot made by Armisery/Kymp. Assisted heavily by Omi and only put on github incase I need to reset my pc again.
-
-Install:
+### Pit Bot made by Armisery/Kymp. ###
+# Assisted heavily by Omi and only put on github incase I need to reset my pc again. #
+Made public because this code doesn't function anymore it just gets the bots watchdog banned.
+Anyone who wants to try create their own can use this code as I do not really care anymore, but the way it is launched it incredibly inefficient.
+ ### Install: ###
 
   -pip install -r requirements.txt or just pip install requests
 
